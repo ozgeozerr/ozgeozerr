@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Özge Özer
 =================================================================================================================================
 
-I'm a third year computer engineering student.
+I'm a third year computer engineering student. Currently focused on mobile development and cyber security.
 ----------------------------------------------
 
 I am passionate about developing my computer engineering skills and developing new projects.
@@ -9,13 +9,6 @@ I am passionate about developing my computer engineering skills and developing n
 * 🌍  I'm based in Izmir, Turkey
 * ✉️  You can contact me at [ozerrrozge@gmail.com](mailto:ozerrrozge@gmail.com)
 * 🤝  I'm open to collaborating on projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
 
 
 ### Socials
