@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Özge Özer
 =================================================================================================================================
-
-I'm a third year computer engineering student. Currently focused on mobile development and cyber security.
 ----------------------------------------------
 
 I am passionate about developing my computer engineering skills and developing new projects.
